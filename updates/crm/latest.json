@@ -1,18 +1,18 @@
 {
-  "version": "0.1.2",
-  "notes": "Adds the Windows (PC) installer; macOS app rebuilt and re-signed at 0.1.2.",
-  "pub_date": "2026-11-22T01:03:29.547Z",
+  "version": "0.1.3",
+  "notes": "",
+  "pub_date": "2026-11-27T16:01:49.588Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ1hUa1dIWG9Qd0x3WjdpTC83M0xPMkIyNk5yQkxuZ0FFZm5ZRVFhOGxRUlRnUGlITjdsbmJjdmJ3ZlZMdWFCRUZCbHM2VWlwelk3elBXWTFzd0Y0enBmR1kzc2tycEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA5MDc2CWZpbGU6Q1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMgovNis0czZLQzNCTzBXOGhMd0JxRkZla3pPaHh4YjQ3T1p5S0lQbHpqVERENGxpQ21BV2YwS2lFYWhjQk56WWV5UHZsQmRxbllHbHNuMCtGYWZlN2JBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ1hUa1dIWG9Qd0ozenJYSnJrSWlJempGVTJZcFNpc0YxZTc0ZHZmMFFTWVBoL0ZwNnhZRlhjbE9SZklmOXRPWGJhS0xuWWdTQlhHcGdtZnZ4UFptTjF1eDlZWTVDend3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkzMDQwCWZpbGU6Q1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMwo0TVN6STJNS0lSdXg4bXQ2WFd4aGZlL25pNUNwSzNzQUF5MDhUdHZVNDhRZnBwZGhzR0FBWU5oa1lnaTIycVl4VmpPbjdOTHRGWEdMaU44VTQrbklDUT09Cg==",
       "url": "https://raw.githubusercontent.com/christopherstaats/CRM_Releases/main/updates/crm/aarch64-apple-darwin/CRM.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ1hUa1dIWG9Qd0R4dCt0K3ZPUFV6bnlrbENXM0F1ZWdkY3d3Yit1TGd5TEdCQVJDOGp5VXBjaWJxYWs0UkJZVlg4QThOekhzcVY2Uk9ZQ0VRcG5ocUtCNHRVcENrSXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA5MzQ3CWZpbGU6Q1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMgp5SVQwQldERkdzejhEWHl4dzJSQ0Q4MU5Ca3pSYWJBZHZ3M2xSSmVmRHl1RVJDNElGSXVMU2ZpaEd6UllodnNoUFl4U012cHFvTjg3Q2sya2lCKzBBUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ1hUa1dIWG9Qd0FNU3IrL2IvMDNBNkNPZXJrcXNWZ0tyRE1qYzl4L25DSVZNd3hqWnRMSjlLV1NJSVBnbTFLbXNGU3NERmFhR21icHA2MzF3eld4MTIrMENBWXpQL0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkzMjU0CWZpbGU6Q1JNLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMwpJMHIva2hzY3hBb0dFNGRBTjRWdmoxekdkM2Nqb3JKdUNhL0NmRU54VWZ4TUxBUGY5cUFRR3JvK2hqcXUxUVVMT2V6V2kwQzVsb3BhdkY5eW5MSWNDQT09Cg==",
       "url": "https://raw.githubusercontent.com/christopherstaats/CRM_Releases/main/updates/crm/x86_64-apple-darwin/CRM.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ1hUa1dIWG9Qd0RsRjNXQnBNUlF0anY1Q1JCZ2xXa3J4TFVtd1dmb2QySDhKVzlIcFhBakhzMkR5ajNpUURZdHNhdjBMbkVVU1VYdldoV05POWdPekpaVHBVVVlGVHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA2MzcxCWZpbGU6Q1JNXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgo5QmtwRXJhYVMzMjdvWUk2SnVuc2lOQWU2cyt3RWJQbHRIeDkzN3FSU1RpbVBReU9neEwxVXp3bzdKbVdDcmV2NlE4RzJGWS9pUVJTZWF0Z3FEM1lDZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ1hUa1dIWG9Qd0RLNkk2ZUtWQjQxUkVvUzR6QnYwYi9rU3B2b3Vua0lkZTZORHFjTFc0c3lzVCt1SHozNGQ2M2F4WEtMbTBjajJLeDh2elJIamNtWHB2MGVEODUwcmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzk0NzQ2CWZpbGU6Q1JNXzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwpKSkFPMmlDNmViYmFmczY5WVprRy9laGo5SUZKNmt4K01iNWZhSERaQUErK2wyeHdyMEd5Um1qM0hZNkQ4MXNITExBNHVQa0FRZXRxeTJPUklVMUdDdz09Cg==",
       "url": "https://raw.githubusercontent.com/christopherstaats/CRM_Releases/main/updates/crm/x86_64-pc-windows-msvc/CRM_x64-setup.exe"
     }
   }
